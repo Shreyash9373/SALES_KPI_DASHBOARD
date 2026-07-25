@@ -34,7 +34,7 @@ This dashboard answers the following business questions:
 
 ## 📷 Dashboard Preview
 
-![Sales_KPI_DASHBOARD](screenshots/SALES_DASHBOARD.png)
+![SALES_KPI_DASHBOARD](screenshots/SALES_DASHBOARD.png)
 
 ---
 ## 📊 Dashboard Features
