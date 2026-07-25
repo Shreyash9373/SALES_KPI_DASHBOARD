@@ -1,6 +1,6 @@
-# 💰 Finance KPI Dashboard | Power BI
+# 💰 Sales KPI Dashboard | Power BI
 
-An interactive **Finance KPI Dashboard** built in **Power BI** to monitor sales performance against targets, track key financial KPIs, and provide actionable insights for business decision-making.
+An interactive **Sales KPI Dashboard** built in **Power BI** to monitor sales performance against targets, track key financial KPIs, and provide actionable insights for business decision-making.
 
 This project demonstrates the use of **Power BI, Power Query, DAX, data modeling, and interactive visualizations** to transform raw sales data into an insightful performance dashboard.
 
@@ -8,7 +8,7 @@ This project demonstrates the use of **Power BI, Power Query, DAX, data modeling
 
 ## 📌 Project Overview
 
-The objective of this project was to build a finance dashboard that enables businesses to monitor sales performance, compare actual sales against targets, identify high and low performers, and analyze sales trends over time.
+The objective of this project was to build a Sales dashboard that enables businesses to monitor sales performance, compare actual sales against targets, identify high and low performers, and analyze sales trends over time.
 
 The dashboard provides a centralized view of important financial KPIs that help management quickly assess business performance and make data-driven decisions.
 
@@ -34,7 +34,7 @@ This dashboard answers the following business questions:
 
 ## 📷 Dashboard Preview
 
-![FINANCE_KPI_DASHBOARD](screenshots/FINANCE_DASHBOARD.png)
+![Sales_KPI_DASHBOARD](screenshots/SALES_DASHBOARD.png)
 
 ---
 ## 📊 Dashboard Features
